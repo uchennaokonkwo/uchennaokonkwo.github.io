@@ -1,0 +1,16 @@
+.bodyInner{
+    display: flex;
+    margin: 0;
+    padding: 0;
+    background-color: tan;
+    height: 100vh;
+    
+  
+
+}
+.body-item{
+    
+    align-items: center;
+    justify-content: center;
+    
+}
